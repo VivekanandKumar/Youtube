@@ -4,7 +4,7 @@
 
 ## Preview
 
-![Output preview](art.png)
+![Output preview](images/art.png)
 
 ## How To RUN ?
 
